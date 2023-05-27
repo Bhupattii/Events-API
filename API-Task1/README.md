@@ -21,8 +21,10 @@ This command will install all the required packages and dependencies listed in t
    npm run dev
 
    This will start the project and make it accessible at "http://localhost:3000" (or another specified port).
+   
+   
 
-API Documentation - Event Management API
+                                                         API Documentation - Event Management API
 
 This documentation provides details on how to use the Event Management API to manage events.
 
