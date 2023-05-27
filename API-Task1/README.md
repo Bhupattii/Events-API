@@ -5,7 +5,7 @@ To use this project, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone [https://github.com/your-username/your-project.git](https://github.com/Bhupattii/deepthought-assignment.git)
 
    ```
 
