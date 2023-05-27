@@ -1,0 +1,14 @@
+{
+  "type": "event",
+  "uid": 18,
+  "name": "Name of the event",
+  "tagline": "A proper tagline for the event",
+  "schedule": "Timestamp",
+  "description": "String",
+  "files[images]": "image file (File upload)",
+  "moderator": "A user who is going to host",
+  "category": "Category of the event",
+  "sub_category": "Sub category",
+  "rigor_rank": "integer value",
+  "attendees": "Array of user ID's who is attending the event"
+}
