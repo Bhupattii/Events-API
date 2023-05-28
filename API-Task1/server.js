@@ -103,9 +103,10 @@ app.delete("/api/v3/app/events/:id", async (req, res) => {
   }
 });
 
+// enter your mongoDB connection link
 mongoose
   .connect(
-    "mongodb+srv://bhupattii:bhupattii@cluster0.mufl1h7.mongodb.net/Node-API?retryWrites=true&w=majority"
+    "mongodb+srv://bhupattii:<password>@cluster0.mufl1h7.mongodb.net/Node-API?retryWrites=true&w=majority" //enter your mongoDB link here
   )
   .then(() => {
     console.log("Connected to MongoDB");
